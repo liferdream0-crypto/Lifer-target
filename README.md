@@ -1,2 +1,0 @@
-# Lifer-target
-Mty website
